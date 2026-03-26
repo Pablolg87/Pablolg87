@@ -6,7 +6,7 @@ Soy un profesional apasionado por la intersección entre recursos humanos y tecn
 
 ## 🚀 Sobre mí
 
-- 🌐 Especializado en: HR Tech & AI Engineering
+- 🌐 Especializado en: HR Tech, People Analytics, ML & AI Engineering
 - 💼 Construyo sistemas inteligentes para optimizar procesos de selección, evaluación y desarrollo.
 - 📖 Siempre aprendiendo sobre las últimas tecnologías en inteligencia artificial y su aplicación práctica.
 - 🌍 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/pablo-lozano-garnacho-%F0%9F%94%8E%F0%9F%92%BB-11792349/).
@@ -16,7 +16,7 @@ Soy un profesional apasionado por la intersección entre recursos humanos y tecn
 ## 🌟 Mis Proyectos Destacados
 
 1. **Sistema Inteligente de Gestión de Talento**: Modelo AI que predice la compatibilidad cultural y rendimiento probable de candidatos.
-2. **Automatización de Procesos de Recursos Humanos**: Implementación de herramientas de RPA y ML para optimizar tareas administrativas.
+2. **People Analytics para Mejora Procesos de Recursos Humanos**: desarrollo de soluciones predictivas, para la optimización de la gestión de personas y su impacto en negocio.
 3. **Desarrollos Open Source**: Contribuciones a proyectos relacionados con la ética AI en HR Tech.
 
 ---
