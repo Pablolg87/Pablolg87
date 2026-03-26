@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Pablo Lozano Garnacho
 
-Soy un profesional apasionado por la intersección entre recursos humanos y tecnología. Con experiencia en HR Tech y AI Engineering, mi objetivo es transformar cómo las organizaciones encuentran, retienen y desarrollan talento a través de la innovación tecnológica.
+Soy un profesional apasionado por la intersección entre recursos humanos y tecnología. Con experiencia en HR Tech, People Analytics y AI Engineering, mi objetivo es transformar cómo las organizaciones encuentran, retienen y desarrollan talento a través de la innovación tecnológica.
 
 ---
 
